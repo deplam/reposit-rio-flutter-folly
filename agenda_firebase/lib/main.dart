@@ -10,7 +10,7 @@ Future<void> main() async {
 
 class App extends StatelessWidget {
   const App({super.key});
-
+// comentário teste
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
