@@ -19,7 +19,7 @@ class App extends StatelessWidget {
       title: "Supabase Storage Apps",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.green),
-      home: const Homepage(
+      home: const HomePage(
         ),
     );
   }
